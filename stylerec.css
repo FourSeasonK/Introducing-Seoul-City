@@ -1,0 +1,221 @@
+body{
+  background-image: linear-gradient(to left, rgb(19, 19, 19), rgb(146, 146, 146), rgb(19, 19, 19));
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#container {
+  background-color: black;
+  width: 90%;
+  margin: auto;
+  box-shadow: 5px 5px 15px black;
+}
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-attachment: scroll;
+}
+h1 {
+  background-color: white;
+  margin-bottom: 0;
+}
+nav a {
+  font-weight: bold;
+  text-decoration: none;
+}
+nav {
+  text-align: center;
+  font-size: 1.5em;
+  background-color: black;
+  padding: 0.5em;
+  word-spacing: 0.2em;
+}
+nav a:link {
+  color: white;
+}
+nav a:visited {
+  color: white;
+}
+nav a:hover {
+  color: blue;
+}
+nav a:active {
+  color: white;
+}
+#lantern{
+  background-image: url(images/lantern4.jpg);
+  height: 400px;
+  margin-bottom: 1em;
+}
+h2{
+  text-align: center;
+  background-color: white;
+  padding: 5px 5px 5px 5px;
+  color:black;
+  font-weight: bold;
+  font-size: 1.24em;
+}
+.link{
+  text-decoration: none;
+}
+h2 a:link {
+  color: black;
+}
+h2 a:visited {
+  color: black;
+}
+h2 a:hover {
+  color: blue;
+}
+h2 a:active {
+  color: black;
+}
+.kimchi {
+  color: white;
+  float: left;
+  width: 19%;
+  height: 280px;
+  background-color: black;
+  margin: 1em 2em 3em 4.5em;
+}
+#kim{
+  width: 100%;
+  height: 200px
+}
+figcaption{
+  text-align: center;
+  margin-top: 1em;
+  font-size: 1.3em;
+}
+.hanbok{
+color: white;
+float: left;
+width: 19%;
+height: 280px;
+background-color: black;
+margin: 1em 2em 3em 2em;
+}
+#han{
+  width: 100%;
+  height: 200px;
+}
+.guard{
+  color: white;
+  float: left;
+  width: 19%;
+  height: 280px;
+  background-color: black;
+  margin: 1em 2em 3em 2em;
+}
+#gua{
+  width: 100%;
+  height: 200px;
+}
+.market{
+  color: white;
+  float: left;
+  width: 19%;
+  height: 280px;
+  background-color: black;
+  margin: 1em 2em 3em 2em;
+}
+#mar{
+  width: 100%;
+  height: 200px;
+}
+.kimchi2 {
+  color: gray;
+  float: left;
+  width: 19%;
+  height: 280px;
+  background-color: black;
+  border: 1px dashed white;
+  margin: 2em 2em 3em 3.6em;
+  line-height: 2em;
+  font-size: 1.2em;
+  text-align: center;
+  margin-top: 3.5em;
+}
+.hanbok2{
+  color: gray;
+  float: left;
+  width: 19%;
+  height: 280px;
+  background-color: black;
+  border: 1px dashed white;
+  margin: 2em 2em 3em 1em;
+  line-height: 2em;
+  font-size: 1.2em;
+  text-align: center;
+  margin-top: 3.5em;
+}
+#rental{
+  text-decoration: none;
+  font-style: italic;
+}
+.hanbok2 a:link {
+  color: wheat;
+}
+.hanbok2 a:visited {
+  color: wheat;
+}
+.hanbok2 a:hover {
+  color: blue;
+}
+.hanbok2 a:active {
+  color: wheat;
+}
+.guard2{
+  color: gray;
+  float: left;
+  width: 19%;
+  height: 280px;
+  background-color: black;
+  border: 1px dashed white;
+  margin: 2em 2em 3em 1.5em;
+  line-height: 2em;
+  font-size: 1.2em;
+  text-align: center;
+  margin-top: 3.5em;
+}
+.market2{
+  color: gray;
+  float: left;
+  width: 19%;
+  height: 280px;
+  background-color: black;
+  border: 1px dashed white;
+  margin: 2em 2em 3em 1.5em;
+  line-height: 2em;
+  font-size: 1.2em;
+  text-align: center;
+  margin-top: 3.5em;
+} 
+span{
+  color: wheat;
+} 
+footer {
+  clear: both;
+  text-align: center;
+  color: white;
+  opacity: 0.8;
+  font-style: italic;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  background-color: gray;
+}
+footer a:link {
+  color: white;
+}
+footer a:visited {
+  color: white;
+}
+footer a:hover {
+  color: blue;
+}
+footer a:active {
+  color: white;
+}
+.copyr{
+  text-decoration: none;
+}

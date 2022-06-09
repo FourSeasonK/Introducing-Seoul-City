@@ -1,0 +1,136 @@
+body {
+  background-image: url(images/gwanghwamun.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#container {
+  background-image: url(images/gwanghwamun.jpg);
+  background-size: cover;
+  width: 90%;
+  background-position: center;
+  margin: auto;
+  box-shadow: 0 50px 80px 80px black;
+}
+nav a {
+  font-weight: bold;
+  text-decoration: none;
+
+}
+nav {
+  text-align: center;
+  font-size: 1.5em;
+  word-spacing: 0.2em;
+  
+}
+nav a:link {
+  color: white;
+}
+nav a:visited {
+  color: white;
+}
+nav a:hover {
+  color: darkblue;
+}
+nav a:active {
+  color: white;
+}
+h1 {
+  background-color: white;
+}
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-attachment: scroll;
+}
+#happy {
+  color: wheat;
+  font-weight: bold;
+  margin-top: 8.5em;
+  margin-bottom: 10em;
+  text-align: center;
+  font-size: 200%;
+  text-shadow: 3px 3px 10px;
+  font-family: "Lucida Handwriting", cursive,serif;
+  opacity: 0.8;
+}
+#hseoul{
+  text-decoration: none;
+  color: wheat;
+}
+.explain {
+  color: grey;
+  text-align: center;
+  padding: 0.8em;
+  font-size: 150%;
+  margin-bottom: 0;
+}
+a {
+  text-decoration: none;
+}
+.explain a:link {
+  color:gray;
+}
+.explain a:visited {
+  color: gray;
+}
+.explain a:hover {
+  color: blue;
+}
+.explain a:active {
+  color: gray;
+}
+#back {
+  background-color: black;
+}
+#mletter{
+  background-color: white;
+  padding: 0.2em;
+  text-align: center;
+  line-height: 2em;
+  font-weight: bold;
+  font-size: 1.5em;
+  opacity: 0.7;
+  margin-bottom: 2.8em;
+}
+#seoul{
+  letter-spacing: 0.5em;
+  font-size: 1.5em;
+  text-align: center;
+}
+#seoul a:link {
+  color:black;
+}
+#seoul a:visited {
+  color: black;
+}
+#seoul a:hover {
+  color: blue;
+}
+#seoul a:active {
+  color: black;
+}
+footer {
+  text-align: center;
+  color: white;
+  opacity: 0.7;
+  font-style: italic;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  background-color: gray;
+}
+footer a:link {
+  color: white;
+}
+footer a:visited {
+  color: white;
+}
+footer a:hover {
+  color: blue;
+}
+footer a:active {
+  color: white;
+}
+.copyr{
+  text-decoration: none;
+}
