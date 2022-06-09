@@ -43,7 +43,7 @@ nav a:active {
   color: white;
 }
 #lantern{
-  background-image: url(images/lantern4.jpg);
+  background-image: url(../images/lantern4.jpg);
   height: 400px;
   margin-bottom: 1em;
 }
